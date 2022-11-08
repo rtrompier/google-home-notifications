@@ -1,10 +1,10 @@
 {
-  "name": "google-home-notifier",
+  "name": "google-home-notifications",
   "version": "1.0.0",
-  "description": "Google Home Notifier",
+  "description": "Google Home Notifications",
   "main": "index.js",
   "bin": {
-    "google-home-notifier": "./bin/global.js"
+    "google-home-notifications": "./bin/global.js"
   },
   "scripts": {
     "test": "echo \"no test specified\"",

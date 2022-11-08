@@ -45,5 +45,5 @@ jobs:
           context: .
           push: true
           tags: |
-            rtrompier/google-home-notifier:latest
-            rtrompier/google-home-notifier:${{ github.event.release.tag_name }}
+            rtrompier/google-home-notifications:latest
+            rtrompier/google-home-notifications:${{ github.event.release.tag_name }}

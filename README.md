@@ -1,8 +1,8 @@
 # GOOGLE HOME NOTIFIER
 
-[![npm](https://img.shields.io/npm/v/rtrompier/google-home-notifier?color=blue&logo=npm)](https://www.npmjs.com/package/rtrompier/google-home-notifier)
-[![Download](https://img.shields.io/npm/dw/rtrompier/google-home-notifier.svg?color=7986CB&logo=npm)](https://npmcharts.com/compare/rtrompier/google-home-notifier?minimal=true)
-[![License](https://img.shields.io/npm/l/rtrompier/google-home-notifier.svg?color=ff69b4)](https://github.com/Badisi/ngx-safe-subscribe/blob/main/LICENSE)
+[![npm](https://img.shields.io/npm/v/rtrompier/google-home-notifications?color=blue&logo=npm)](https://www.npmjs.com/package/rtrompier/google-home-notifications)
+[![Download](https://img.shields.io/npm/dw/rtrompier/google-home-notifications.svg?color=7986CB&logo=npm)](https://npmcharts.com/compare/rtrompier/google-home-notifications?minimal=true)
+[![License](https://img.shields.io/npm/l/rtrompier/google-home-notifications.svg?color=ff69b4)](https://github.com/Badisi/ngx-safe-subscribe/blob/main/LICENSE)
 
 
 This project allow to send vocals notifications through a REST API.
@@ -20,27 +20,27 @@ Two options are available.
 1. Use the docker image (recommended)
 
 ```sh
-docker run -p 3000:3000 GHN_PORT=3000 --name google-home-notifier -d rtrompier/google-home-notifier:latest
+docker run -p 3000:3000 GHN_PORT=3000 --name google-home-notifications -d rtrompier/google-home-notifications:latest
 ```
 
 2. Use the npm package
 
 ```sh
-$ sudo npm install -g google-home-notifier
+$ sudo npm install -g google-home-notifications
 ```
 Or update to latest version when already installed:
 ```sh
-$ sudo npm update -g google-home-notifier
+$ sudo npm update -g google-home-notifications
 ```
 
 ### How to start (for NPM only)
 
 ```sh
-$ google-home-notifier
+$ google-home-notifications
 ```
 
 You can pass the following params by environment variables : 
-* **GHN_PORT** The port used by the google-home-notifier server
+* **GHN_PORT** The port used by the google-home-notifications server
 
 
 ### How to use
