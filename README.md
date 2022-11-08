@@ -1,8 +1,8 @@
 # GOOGLE HOME NOTIFIER
 
-[![npm](https://img.shields.io/npm/v/rtrompier/google-home-notifications?color=blue&logo=npm)](https://www.npmjs.com/package/rtrompier/google-home-notifications)
-[![Download](https://img.shields.io/npm/dw/rtrompier/google-home-notifications.svg?color=7986CB&logo=npm)](https://npmcharts.com/compare/rtrompier/google-home-notifications?minimal=true)
-[![License](https://img.shields.io/npm/l/rtrompier/google-home-notifications.svg?color=ff69b4)](https://github.com/Badisi/ngx-safe-subscribe/blob/main/LICENSE)
+[![npm](https://img.shields.io/npm/v/google-home-notifications?color=blue&logo=npm)](https://www.npmjs.com/package/google-home-notifications)
+[![Download](https://img.shields.io/npm/dw/google-home-notifications.svg?color=7986CB&logo=npm)](https://npmcharts.com/compare/google-home-notifications?minimal=true)
+[![License](https://img.shields.io/npm/l/google-home-notifications.svg?color=ff69b4)](https://github.com/rtrompier/google-home-notifications/blob/main/LICENSE)
 
 
 This project allow to send vocals notifications through a REST API.
