@@ -1,4 +1,4 @@
-# GOOGLE HOME NOTIFIER
+# GOOGLE HOME NOTIFICATIONS
 
 [![npm](https://img.shields.io/npm/v/google-home-notifications?color=blue&logo=npm)](https://www.npmjs.com/package/google-home-notifications)
 [![Download](https://img.shields.io/npm/dw/google-home-notifications.svg?color=7986CB&logo=npm)](https://npmcharts.com/compare/google-home-notifications?minimal=true)
