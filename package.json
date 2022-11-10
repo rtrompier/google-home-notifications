@@ -1,6 +1,6 @@
 {
   "name": "google-home-notifications",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google Home Notifications",
   "main": "index.js",
   "bin": {
